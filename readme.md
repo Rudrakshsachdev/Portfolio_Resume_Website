@@ -26,7 +26,7 @@ A personal portfolio and resume website built using **Django**, designed to show
 
 ## 🗂️ Project Structure
 
-Portfolio_Resume_Website/
+Portfolio_Resume_Website/<br>
 │
 ├── manage.py <br>
 ├── requirements.txt <br>
