@@ -28,16 +28,16 @@ A personal portfolio and resume website built using **Django**, designed to show
 
 Portfolio_Resume_Website/
 │
-├── manage.py
-├── requirements.txt
-├── Procfile (for deployment)
-├── db.sqlite3
+├── manage.py <br>
+├── requirements.txt <br>
+├── Procfile (for deployment) <br>
+├── db.sqlite3 <br>
 │
-├── Portfolio_Resume_Website/ # Django project config (settings, urls, wsgi)
-├── ResumeWebsite/ # Main Django app (views, models, forms, etc.)
-├── static/ # Custom static files (CSS, JS, images)
-├── staticfiles/ # Collected static files (post collectstatic)
-├── templates/ # All HTML templates
+├── Portfolio_Resume_Website/ # Django project config (settings, urls, wsgi) <br>
+├── ResumeWebsite/ # Main Django app (views, models, forms, etc.) <br>
+├── static/ # Custom static files (CSS, JS, images) <br>
+├── staticfiles/ # Collected static files (post collectstatic) <br>
+├── templates/ # All HTML templates <br>
 
 
 ---
@@ -74,9 +74,10 @@ Then open http://127.0.0.1:8000/ in your browser.
 
 ---
 
-### Author
-Rudraksh Sachdeva
-👨‍💻 B.Tech CSE Student @ IILM
-📍 Delhi, India
-🔗 https://github.com/Rudrakshsachdev
-📧 rudraksh.sachdeva.19work@gmail.com
+## 👨‍💻 Author
+
+**Rudraksh Sachdeva**
+
+- 🔗 GitHub: [@Rudrakshsachdev](https://github.com/Rudrakshsachdev)
+- 💼 LinkedIn: [Your LinkedIn URL](https://linkedin.com/in/rudraksh-sachdeva)
+- 📧 Email: [your.email@example.com](mailto: rudraksh.sachdeva.19work@gmail.com)
