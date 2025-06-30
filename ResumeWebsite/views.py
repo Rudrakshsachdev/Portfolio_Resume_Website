@@ -24,11 +24,11 @@ def HomePage(request):
 
             # Now, sending the email
             send_mail(
-                subject = f"Portfolio Contact from {name}", 
-                message = message,
-                from_email = settings.EMAIL_HOST_USER, # The email address from which the email will be sent
-                recipient_list = [email], # The email address to which the email will be sent,
-                fail_silently = False,
+                subject='Thank you for contacting me!',
+                message=f'Dear {name},\n\nThank you for reaching out. I will get back to you shortly.\n\nRegards,\nRudraksh',
+                from_email='rudrakshsachdeva22@gmail.com',
+                recipient_list=[email],
+                fail_silently=False,
             )
             # Displaying a success message
             messages.success(request, 'Your message has been sent successfully!')
